@@ -15,7 +15,6 @@ import io.r2dbc.spi.ConnectionFactory;
 
 @SpringBootApplication
 @ComponentScan
-@ServletComponentScan
 public class HelloWorldApplication extends SpringBootServletInitializer {
 
 	@Override
