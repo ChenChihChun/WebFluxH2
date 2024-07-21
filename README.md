@@ -5,7 +5,7 @@
 </li>
 <li>
   Swagger路徑：<br/>
-  http://localhost:8080/HelloWorld/swagger-ui/index.html
+  http://localhost:8080/HelloWorld/webjars/swagger-ui/index.html
 </li>
 <li>
 新增/刪除/修改/查詢(單一以及分頁)會員功能api。<br>
@@ -29,13 +29,13 @@
 
 
 <h2>TODO:</h2>
-
 <ol>
+<li>2024/07/21: Security目前沒有啟動，要再看怎麼設定比較好</li>
 <li>
-  spring-WebFlux 應該要跟 spriing webmvc 脫鉤
+  <del>spring-WebFlux 應該要跟 spriing webmvc 脫鉤</del>
 </li>
 <li>
-  spring-doc 應該要換到 weflux 版本
+  <del>spring-doc 應該要換到 weflux 版本</del>
 </li>
   
 </ol>
